@@ -1,1 +1,1 @@
-# Logistic Regression Case Study
+# Logistic Regression Advanced Case Study
